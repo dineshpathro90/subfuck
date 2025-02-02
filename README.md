@@ -41,7 +41,7 @@ pip install dnspython tldextract
 ### Clone the repository:
 
 ```
-git clone https://github.com/dineshpathro90/subfuck.git &
+git clone https://github.com/dineshpathro90/subfuck.git &&
 cd subfuck
 ```
 ### Run the scanner:
