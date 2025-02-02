@@ -41,13 +41,13 @@ pip install dnspython tldextract
 ### Clone the repository:
 
 ```
-git clone https://github.com/yourusername/advanced-subdomain-scanner.git &
-cd advanced-subdomain-scanner
+git clone https://github.com/dineshpathro90/subfuck.git &
+cd subfuck
 ```
 ### Run the scanner:
 
 ```
-python3 scanner.py
+python3 subfuck.py
 ```
 
 ### Configure the scanner:
