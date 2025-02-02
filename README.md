@@ -1,4 +1,4 @@
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![This is an alt text.](https://github.com/dineshpathro90/subfuck/blob/main/Screenshot.png "This is a sample image.")
 
 
 # Advanced Subdomain Scanner
