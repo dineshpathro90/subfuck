@@ -1,0 +1,13 @@
+{
+    "wordlist_path": "/usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt",
+    "timeout": 30,
+    "max_threads": 10,
+    "dns_servers": [
+        "8.8.8.8",
+        "8.8.4.4"
+    ],
+    "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    ]
+}

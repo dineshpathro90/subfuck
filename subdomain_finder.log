@@ -1,0 +1,16 @@
+2025-02-02 19:04:04,008 - INFO - Starting scan for bitsgunupur.org
+2025-02-02 19:04:04,008 - INFO - Error during scan: 'AdvancedSubdomainFinderApp' object has no attribute 'run_basic_enumeration'
+2025-02-02 19:04:04,008 - ERROR - Scan error: 'AdvancedSubdomainFinderApp' object has no attribute 'run_basic_enumeration'
+2025-02-02 19:04:16,426 - INFO - Starting scan for bitsgunupur.org
+2025-02-02 19:04:16,427 - INFO - Error during scan: 'AdvancedSubdomainFinderApp' object has no attribute 'run_basic_enumeration'
+2025-02-02 19:04:16,427 - ERROR - Scan error: 'AdvancedSubdomainFinderApp' object has no attribute 'run_basic_enumeration'
+2025-02-02 19:05:27,433 - INFO - Starting scan for bitsgunupur.org
+2025-02-02 19:05:27,433 - INFO - Error during scan: 'AdvancedSubdomainFinderApp' object has no attribute 'run_basic_enumeration'
+2025-02-02 19:05:27,433 - ERROR - Scan error: 'AdvancedSubdomainFinderApp' object has no attribute 'run_basic_enumeration'
+2025-02-02 19:11:53,393 - INFO - Starting scan for bitsgunupur.org
+2025-02-02 19:11:56,578 - INFO - Scan completed in 3.19 seconds
+2025-02-02 19:21:53,126 - INFO - Starting scan for bitsgunupur.org
+2025-02-02 19:22:56,544 - INFO - Scan completed in 63.42 seconds
+2025-02-02 19:23:48,272 - INFO - Starting scan for bitsgunupur.org
+2025-02-02 19:24:12,148 - ERROR - Certificate search error: Cannot connect to host crt.sh:443 ssl:default [Multiple exceptions: [Errno 111] Connect call failed ('2a0e:ac00:c7:d449::5bc7:d449', 443, 0, 0), [Errno 111] Connect call failed ('91.199.212.73', 443)]
+2025-02-02 19:24:12,150 - INFO - Scan completed in 23.88 seconds
