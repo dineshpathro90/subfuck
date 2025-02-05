@@ -1,7 +1,7 @@
 ![This is an alt text.](https://github.com/dineshpathro90/subfuck/blob/main/Screenshot.png "This is a sample image.")
 
 
-# Advanced Subdomain Scanner
+# Subfuck
 
 ###### This repository contains an advanced subdomain scanner implemented in Python using Tkinter for the GUI and asyncio for asynchronous operations. The scanner supports various techniques for discovering subdomains and enumerating DNS records.
 
